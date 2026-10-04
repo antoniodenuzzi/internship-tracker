@@ -39,6 +39,7 @@ The React frontend communicates with a REST API built with FastAPI. The API hand
 
 ## Project Structure
 
+```text
 internship-tracker/
 ├── backend/
 │   └── main.py
@@ -48,7 +49,10 @@ internship-tracker/
 │       ├── App.jsx
 │       ├── ApplicationCard.jsx
 │       └── App.css
+├── screenshots/
+│   └── internship-tracker.png
 └── README.md
+```
 
 ## Future Improvements
 
